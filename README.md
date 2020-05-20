@@ -1,8 +1,6 @@
-# 808 - nowtro
+# 808 - nowtro concept
 
-> the future and the past walk in the park holding hands, whilst design, music and art share can of special brew on a wet bench.
 
-https://io808.com/
-
-https://robricketts.bigcartel.com/products
+ - create a beat using https://io808.com/ export it as a .json file. 
+ - create a poster from the .json file https://robricketts.bigcartel.com/products
 
